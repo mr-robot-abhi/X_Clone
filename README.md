@@ -50,6 +50,7 @@ npm start
 ![Demo App](https://github.com/mr-robot-abhi/X_Clone/blob/main/frontend/public/x1.png)
 ![Demo App](https://github.com/mr-robot-abhi/X_Clone/blob/main/frontend/public/x2.png)
 
+Thanks to As a programmer for the full tutorial. 
 🎥 [Watch the Full Tutorial on YouTube](https://youtu.be/4GUVz2psWUg)
 
 Enjoy building your own Twitter Clone! 🚀
